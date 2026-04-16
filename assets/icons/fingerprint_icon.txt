@@ -1,0 +1,1 @@
+fingerprint_icon.png - Biometric/Fingerprint icon
